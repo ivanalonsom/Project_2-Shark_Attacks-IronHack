@@ -27,7 +27,7 @@ def rename_cols(df):
     return df
 
 
-def remove_duplicates(df):
+def remove_nulls(df):
     """
     Removes rows with missing values in key columns for our analysis and returns the modified DataFrame.
     This step eliminates rows where data is missing in essential columns such as 'country', 'name', 'sex', 'age',
@@ -259,11 +259,6 @@ def clean_time_column(df):
     return df
 
 
-valid_species = {
-
-    'Tiger shark', 'White shark', 'Bull shark', 'Hammerhead shark', 'Great white shark', 
-    'Mako shark', 'Blacktip shark', 'Reef shark', 'Nurse shark', 'Whale shark', 'Tiger shark'
-}
 """
 Set of valid shark species for cleaning and normalizing the 'species' column.
 
@@ -404,7 +399,7 @@ def main_cleaning(df_main, valid_species):
         pandas.DataFrame: The cleaned DataFrame, ready for analysis.
     """
     df_main = rename_cols(df_main)  # Rename columns
-    df_main = remove_duplicates(df_main)  # Remove duplicates
+    df_main = remove_nulls(df_main)  # Remove duplicates
     df_main = change_float_to_int(df_main)  # Convert floats to integers
     df_main = remove_small_reps(df_main)  # Remove small representations
     df_main = clean_str_punctuation(df_main)  # Clean punctuation in text

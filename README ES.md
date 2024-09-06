@@ -15,10 +15,10 @@ Puedes ver la presentación del proyecto y del equipo en el siguiente enlace:
 
 El equipo detrás de este proyecto está compuesto por:
 
-- **Iván**
-- **Adrián**
-- **Carlos**
-- **Beatriz**
+- **ivanalonsom**
+- **adrianlardies**
+- **beatranche**
+- **PoeMadara**
 
 Cada miembro del equipo ha contribuido en diferentes aspectos del proyecto, desde la limpieza de datos hasta la creación de visualizaciones.
 
