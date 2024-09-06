@@ -15,10 +15,10 @@ You can view the project and team presentation at the following link:
 
 The team behind this project consists of:
 
-- **ivanalonsom**
-- **adrianlardies**
-- **beatranche**
-- **PoeMadara**
+- **https://www.github.com/ivanalonsom**
+- **https://www.github.com/adrianlardies**
+- **https://www.github.com/beatranche**
+- **https://www.github.com/PoeMadara**
 
 Each team member has contributed to various aspects of the project, from data cleaning to visualization creation.
 

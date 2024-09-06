@@ -15,10 +15,10 @@ Puedes ver la presentación del proyecto y del equipo en el siguiente enlace:
 
 El equipo detrás de este proyecto está compuesto por:
 
-- **ivanalonsom**
-- **adrianlardies**
-- **beatranche**
-- **PoeMadara**
+- **https://www.github.com/ivanalonsom**
+- **https://www.github.com/adrianlardies**
+- **https://www.github.com/beatranche**
+- **https://www.github.com/PoeMadara**
 
 Cada miembro del equipo ha contribuido en diferentes aspectos del proyecto, desde la limpieza de datos hasta la creación de visualizaciones.
 
